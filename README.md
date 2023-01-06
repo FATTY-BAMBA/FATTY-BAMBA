@@ -1,6 +1,6 @@
 **I work on building and implemeting state-of-the-art AI models and tools for solivng problems across various domians, specifically machine learning and computer vision. I am presently a PhD candidate an I have published some of my AI-related projects in renowned journals such as IEEE Consumer Electronics, Applied Sciences, and Multimedia Tools and Applications.**
 
-I have expericened in developing models as well as converting AI-based models into mobile and web applications.
+I have expericene in developing models as well as converting AI-based models into mobile and web applications.
 
 * Currenlty a PhD candidate and working as a graduate researcher at the Geotechnical Intelligence Systems Lab.
 * Glad to collaborate and work on projects related to machince learning and deep learning.
