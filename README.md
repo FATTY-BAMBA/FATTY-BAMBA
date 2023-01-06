@@ -1,5 +1,3 @@
-[FATTY-BAMBA](https://github.com/FATTY-BAMBA)/ README.md
-
 **I work on building and implemeting state-of-the-art AI models and tools for solivng problems across various domians, specifically machine learning and computer vision. I am presently a PhD candidate an I have published some of my AI-related projects in renowned journals such as IEEE Consumer Electronics, Applied Sciences, and Multimedia Tools and Applications.**
 
 I have expericened in developing models as well as converting AI-based models into mobile and web applications.
