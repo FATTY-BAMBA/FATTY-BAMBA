@@ -1,4 +1,13 @@
-### Hi there 👋
+[FATTY-BAMBA](https://github.com/FATTY-BAMBA)/ README.md
+
+**I work on building and implemeting state-of-the-art AI models and tools for solivng problems across various domians, specifically machine learning and computer vision. I am presently a PhD candidate an I have published some of my AI-related projects in renowned journals such as IEEE Consumer Electronics, Applied Sciences, and Multimedia Tools and Applications.**
+
+I have expericened in developing models as well as converting AI-based models into mobile and web applications.
+
+-Currenlty a PhD candidate and working as a graduate researcher at the Geotechnical Intelligence Systems Lab.
+-Glad to collaborate and work on projects related to machince learning and deep learning.
+-Open to work on AI-related projects and mobile app development.
+-You can reach out to me on "afatty13@gmail.com"
 
 <!--
 **FATTY-BAMBA/FATTY-BAMBA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
