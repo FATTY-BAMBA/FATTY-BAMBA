@@ -2,10 +2,10 @@
 
 I have expericened in developing models as well as converting AI-based models into mobile and web applications.
 
--Currenlty a PhD candidate and working as a graduate researcher at the Geotechnical Intelligence Systems Lab.
--Glad to collaborate and work on projects related to machince learning and deep learning.
--Open to work on AI-related projects and mobile app development.
--You can reach out to me on "afatty13@gmail.com"
+--Currenlty a PhD candidate and working as a graduate researcher at the Geotechnical Intelligence Systems Lab.
+--Glad to collaborate and work on projects related to machince learning and deep learning.
+--Open to work on AI-related projects and mobile app development.
+--You can reach out to me on "afatty13@gmail.com"
 
 <!--
 **FATTY-BAMBA/FATTY-BAMBA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
