@@ -1,8 +1,8 @@
-**I work on building and implemeting state-of-the-art AI models and tools for solivng problems across various domians, specifically machine learning and computer vision. I am presently a PhD candidate and I have published some of my AI-related projects in renowned journals such as IEEE Consumer Electronics, Applied Sciences, and Multimedia Tools and Applications.**
+** Machine Learning Scientist working on the frontier of research and development. Experienced in developing and deploying Machine and Deep learning models combined with a track record for identifying new problem areas and researching technical details to develop innovative products and solutions by leveraging AI to solve real-world problems. I have published some of my AI-related projects in renowned journals such as IEEE Consumer Electronics, Applied Sciences, and Multimedia Tools and Applications.**
 
-I have expericene in developing models as well as converting AI-based models into mobile and web applications.
+I have expericene in developing AI models as well as converting models into mobile and web applications.
 
-* Currenlty a PhD candidate and working as a graduate researcher at the Geotechnical Intelligence Systems Lab.
+* Ph.D. in Engineering.
 * Glad to collaborate and work on projects related to machince learning and deep learning.
 * Open to work on AI-related projects and mobile app development.
 * You can reach out to me on "afatty13@gmail.com"
