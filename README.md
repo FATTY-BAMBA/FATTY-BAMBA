@@ -1,4 +1,4 @@
-** Machine Learning Scientist working on the frontier of research and development. Experienced in developing and deploying Machine and Deep learning models combined with a track record for identifying new problem areas and researching technical details to develop innovative products and solutions by leveraging AI to solve real-world problems. I have published some of my AI-related projects in renowned journals such as IEEE Consumer Electronics, Applied Sciences, and Multimedia Tools and Applications.**
+**Machine Learning Scientist working on the frontier of research and development. Experienced in developing and deploying Machine and Deep learning models combined with a track record for identifying new problem areas and researching technical details to develop innovative products and solutions by leveraging AI to solve real-world problems. I have published some of my AI-related projects in renowned journals such as IEEE Consumer Electronics, Applied Sciences, and Multimedia Tools and Applications.**
 
 I have expericene in developing AI models as well as converting models into mobile and web applications.
 
